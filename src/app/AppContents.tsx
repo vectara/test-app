@@ -85,6 +85,7 @@ export const AppContents = () => {
         </Flex>
         <Instructions />
       </Flex>
+      <a href="https://console.vectara.dev/login">Login to Vectara</a>
     </Flex>
   );
 };
